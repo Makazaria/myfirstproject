@@ -73,9 +73,11 @@ h6 {
 	font-weight: 400;
 }
 
-h1 {
-	color: rgb(37, 220, 20);
-}
-.red {
-	color: red;
-}
+
+	h1 {
+		color: rgb(37, 220, 20);
+	}
+	.red {
+		color: red;
+	}
+
